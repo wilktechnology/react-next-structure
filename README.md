@@ -37,6 +37,18 @@ $ npm run server
 $ yarn server
 ```
 
+## Initial dependencies
+
+[x] swr
+[x] styled-components  
+[x] json-server
+
+## Initial Dev Dependencies
+
+[x] typescript
+[x] eslint 
+[x] prettier
+
 ## License
 
 MIT © [Wilk Technology](https://github.com/wilktechnology)
