@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png" alt="React" height="50" />&nbsp;&nbsp;&nbsp;
+<img src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png" alt="React" height="50" />&nbsp;&nbsp;<span>|</span>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next" height="50" />
 
 </div>
