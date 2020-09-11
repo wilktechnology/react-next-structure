@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/assets/wilktechnology.svg" height="150" width="175" alt="Wilk Technology" />
+  <img src="./src/assets/wilktechnology.svg" alt="Wilk Technology" />
 </p>
 
 <h3 align="center">
