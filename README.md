@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" display="flex">
 
 <div align="center">
 
