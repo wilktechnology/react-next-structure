@@ -8,8 +8,6 @@
 
 <br>
 
-<div align="center" display="flex">
-
 <div align="center">
 
 <img src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png" alt="React" height="50" />
@@ -25,8 +23,6 @@
 <br />
 
 [![npm](https://img.shields.io/npm/v/next.svg)](https://www.npmjs.com/package/next)
-
-</div>
 
 </div>
 
