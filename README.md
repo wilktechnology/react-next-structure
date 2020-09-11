@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png" height="50" alt="ReactJS">
+  <img src="https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png" height="50" alt="ReactJS"><space><space>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" height="50" alt="Next.js" />
 </div>
 
