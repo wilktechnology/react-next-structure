@@ -43,7 +43,7 @@ $ yarn server
 - styled-components  
 - json-server
 
-## Initial Dev Dependencies
+## Initial dev dependencies
 
 - typescript
 - eslint 
